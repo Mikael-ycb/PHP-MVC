@@ -1,3 +1,5 @@
-    <script src="<?= BASEURL;?>/js/boodstrap.js"></script>
+    <script src="<?= BASEURL;?>/js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
+
+
